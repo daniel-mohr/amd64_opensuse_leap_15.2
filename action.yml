@@ -1,6 +1,6 @@
 # action.yml
 name: 'run_script'
-description: 'run script on the docker image opensuse/leap:latest'
+description: 'run script on the docker image opensuse/leap:15.2'
 inputs:
   cmdfile:
     description: 'file to run'
